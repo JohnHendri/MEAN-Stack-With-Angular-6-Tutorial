@@ -1,0 +1,30 @@
+{
+  "name": "davidcosta",
+  "version": "1.0.0",
+  "description": "MEAN Stack with Angular 6",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JohnHendri/MEAN-Stack-With-Angular-6-Tutorial.git"
+  },
+  "keywords": [
+    "MEAN",
+    "Stack",
+    "Angular",
+    "6",
+    "Application"
+  ],
+  "author": "John Hendri",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JohnHendri/MEAN-Stack-With-Angular-6-Tutorial/issues"
+  },
+  "homepage": "https://github.com/JohnHendri/MEAN-Stack-With-Angular-6-Tutorial#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "mongoose": "^5.3.0"
+  }
+}
